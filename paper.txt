@@ -2,3 +2,5 @@ Today is Tuesday, can this be?
 I have written about cats in the rain. 
 They don't like it much.
 
+What if I change the file outside of command line?
+
